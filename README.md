@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jitendra Mishra</h1>
+<h1>Hi 👋, I'm Jitendra Mishra</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmishra01&label=Profile%20views&color=0e75b6&style=flat" alt="jmishra01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmishra01" alt="jmishra01" /></a> </p>
+<p>
+  <ul>
+    <li>I'm currently working on LALR and EARLY Parser.</li>
+    <li>I'm currently learning Rust programming language.</li>
+  </ul>
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -12,7 +15,7 @@
 <a href="https://kaggle.com/jitendramishra29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jitendramishra29" height="30" width="40" /></a>
 <a href="https://medium.com/@jitendra29mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jitendra29mishra" height="30" width="40" /></a>
 </p>
-
+<h2 align="left">My Skills:</h3>
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
