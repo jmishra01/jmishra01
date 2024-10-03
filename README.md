@@ -3,7 +3,7 @@
 <p>
   <ul>
     <li>I'm currently working on LALR and EARLY Parser.</li>
-    <li>I'm currently learning Rust programming language.</li>
+    <li>I'm also learning Rust programming language.</li>
   </ul>
 </p>
 
