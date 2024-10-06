@@ -2,7 +2,8 @@
 
 <p>
   <ul>
-    <li>I'm currently working on LALR and EARLY Parser.</li>
+    <li>I'm currently working on integrating FrappeFramework with Oracle Database.</li>
+    <li>I created custom compiler using Lark Python package.</li>
     <li>I'm also learning Rust programming language.</li>
   </ul>
 </p>
