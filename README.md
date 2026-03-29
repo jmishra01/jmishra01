@@ -2,9 +2,7 @@
 
 <p>
   <ul>
-    <li>I'm currently working on integrating FrappeFramework with Oracle Database.</li>
-    <li>I created custom compiler using Lark Python package.</li>
-    <li>I also learning Rust programming language.</li>
+    <li>I'm working on my personal project <a href="https://github.com/jmishra01/Swiftlet">Swiftlet</a>, used to parse text based on custom grammar.</li>
   </ul>
 </p>
 
